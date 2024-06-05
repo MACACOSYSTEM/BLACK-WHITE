@@ -1,0 +1,26 @@
+{
+	"name": "desafio_black_and_white",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index access -k=123"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Franxcode/desafio-black-and-white.git"
+	},
+	"keywords": [],
+	"author": "Francisco Oliva",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Franxcode/desafio-black-and-white/issues"
+	},
+	"homepage": "https://github.com/Franxcode/desafio-black-and-white#readme",
+	"dependencies": {
+		"express": "^4.17.2",
+		"jimp": "^0.16.1",
+		"yargs": "^17.3.1"
+	}
+}
